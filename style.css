@@ -1,11 +1,10 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: red;
+    background-color: black;
+    color: white;
 } 
   .some-heading {
-
-
     box-sizing: border-box;
     font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
     font-size: 3.5rem;
